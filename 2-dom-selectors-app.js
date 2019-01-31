@@ -40,15 +40,3 @@ document.querySelector('li:nth-child(odd)').style.background = '#ccc'; // odd se
 
 document.querySelector('li:nth-child(even)').style.background = '#f4f4f4'; // only first even
 
-
-
-
-
-
-
-
-
-
-
-// Multiple Element Selectors - grabs all elements with that class, and returns an HTML collection or a node list depending on the selector used
-
